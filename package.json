@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/vandanayadav123/app-ip_address#readme",
   "dependencies": {
-    "ip-cidr": "^2.0.12"
+    "ip-cidr": "^2.0.12",
+    "path": "^0.12.7"
   }
 }
